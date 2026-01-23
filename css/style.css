@@ -188,7 +188,7 @@ body::before {
   padding: 40px 32px 32px;
 
   border-radius: var(--radius-sm);
-  box-shadow: var(--shadow-xs);
+  box-shadow: var(--shadow-lg);
   background-color: rgba(255, 255, 255, 0.951);
   border: 1px solid var(--border-soft);
 
